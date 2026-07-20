@@ -48,17 +48,18 @@ code{background:#F1ECE2;padding:1px 6px;border-radius:4px;font-size:.88em}
  margin-right:10px}
 .toc a{text-decoration:none;font-weight:600}
 .toc a:hover{text-decoration:underline;text-underline-offset:3px}
-section.note{margin-top:64px;padding-top:40px;border-top:1px solid #E2DACB;
- columns:3;column-gap:30px;column-fill:balance}
-@media(max-width:1180px){section.note{columns:2}}
-@media(max-width:820px){section.note{columns:1}}
-section.note>.date,section.note>h1,section.note>p:first-of-type{column-span:all}
-section.note>h1{margin-bottom:10px}
-section.note>p:first-of-type{max-width:900px;margin-bottom:18px}
-.fig,.cards,.together,.receipts,blockquote,.card,.keep{break-inside:avoid}
-.step{break-after:avoid;margin-top:1.2em}
+.notes-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:0 44px;
+ margin-top:44px;border-top:1px solid #E2DACB}
+@media(max-width:1180px){.notes-grid{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:820px){.notes-grid{grid-template-columns:1fr}}
+section.note{padding:36px 0 28px;min-width:0}
+.notes-grid section.note:nth-child(3n+2){border-left:1px solid #E2DACB;border-right:1px solid #E2DACB;
+ padding-left:44px;padding-right:44px;margin-left:-44px;margin-right:-44px}
+@media(max-width:1180px){.notes-grid section.note:nth-child(3n+2){border:0;padding-left:0;padding-right:0;margin:0}}
+section.note h1{font-size:1.28rem;margin-bottom:8px}
+section.note p{font-size:.94rem}
+.step{margin-top:1.4em}
 .cards{grid-template-columns:1fr !important}
-.top{column-span:all}
 .top{font-size:.78rem;color:#7C766A;text-decoration:none;display:inline-block;margin-top:14px}
 .top:hover{color:#1C1913}
 .iohint{margin-top:64px;font-size:.8rem}
@@ -79,7 +80,7 @@ earned.</p>
 <li><span class="n">NO. 004</span><a href="#004">The arrow we could not prove</a></li>
 <li><span class="n">NO. 005</span><a href="#005">Measuring our own leverage without flattering ourselves</a></li>
 <li><span class="n">NO. 006</span><a href="#006">The benchmark with its hands tied</a></li></ul>
-<section class="note" id="001">
+<div class="notes-grid"><section class="note" id="001">
 <div class="date">No. 001 &middot; observed 2026-03-17</div>
 <h1>The night the trail was cut</h1>
 
@@ -495,6 +496,6 @@ run; amendments logged append-only from 2026-06-26. Milestones 24 and 25: compar
 core seed, arms A/B, cross-domain and 6-model sweep. Results directories under
 ops/data/benchmarks/governance/results/, witnessed.
 </div>
-<a class="top" href="#top">&uarr; top</a></section>
+<a class="top" href="#top">&uarr; top</a></section></div>
 <div class="iohint"><a href="https://echology.io">echology.io &rarr;</a></div>
 </div></body></html>
