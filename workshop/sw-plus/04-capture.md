@@ -64,9 +64,9 @@ important thing to resolve in synthesis.
 
 ---
 
-## Part 1 — "one thing that would change your week" (T+00)
+## Part 1 — "one thing that would change your week" (T+00, 16 min)
 
-Verbatim, one per person. These get read back at T+137.
+Verbatim, one per person. These get read back at T+135.
 
 | Person | Exact words |
 | --- | --- |
@@ -80,7 +80,7 @@ Verbatim, one per person. These get read back at T+137.
 
 ---
 
-## Part 2 — the map (T+12)
+## Part 2 — the map (T+16)
 
 **Photographed:** pass 1 ☐  pass 2 ☐  pass 3 ☐
 
@@ -127,7 +127,10 @@ organization."* — then log both versions here and leave both on the board:
 
 ---
 
-## Part 3 — current AI reality (T+42)
+## Part 3 — current AI reality (T+46)
+
+Ask in the **third person** — *have you had anyone using something that was not
+sanctioned, and it just worked?* First-person versions get zero hands.
 
 | Tool / script | Who uses it | IT aware? | Touches project data? | Survives its author? |
 | --- | --- | --- | --- | --- |
@@ -153,7 +156,7 @@ the pilot must not attempt on its own:
 
 ---
 
-## Break (T+60) — who approached, and what they said
+## Break (T+62) — who approached, and what they said
 
 The highest-signal eight minutes. Write it down the moment they walk away.
 
@@ -166,7 +169,7 @@ The highest-signal eight minutes. Write it down the moment they walk away.
 
 ---
 
-## Part 4 — thought experiment (T+68)
+## Part 4 — thought experiment (T+70)
 
 **Perfect memory →**
 
@@ -188,15 +191,15 @@ The highest-signal eight minutes. Write it down the moment they walk away.
 
 ---
 
-## Part 5 — what they assembled (T+105)
+## Part 5 — what they assembled (T+103)
 
 **Components they named, in their words:**
 
 **What they missed and had to be prompted for:**
 
-**Reaction to the reveal — first person to speak, and what they said:**
+**Reaction to "you already designed it" — first person to speak, and what they said:**
 
-**Reaction to the self-audit failure story:**
+**Reaction to the known-unknowns / operational-legibility framing:**
 
 **Reaction to "everything on this board is about memory" — who nodded, who wrote
 something down:**
@@ -210,14 +213,20 @@ verbatim. Goes directly into the pilot pre-registration:
 
 ---
 
-## Close (T+137)
+## Close (T+135)
 
-**Workflows volunteered:**
+No formal ask this session. Log what surfaced on its own — offered is worth far more
+than extracted, and nothing offered is itself a reading.
 
-**Named for a one-hour follow-up conversation:**
+**Workflows volunteered, unprompted:**
 
-**IT's answer to "what would have to be true for a pilot to touch real project
-data":**
+**Anyone who offered time or a follow-up conversation:**
+
+**Did IT raise the project-data question themselves?** ☐ yes ☐ no — and in what
+words:
+
+**Individual benefit named out loud, per person** (close, move 2) — who you named,
+and how they reacted:
 
 **Reaction to pre-registering failure criteria — who understood it first:**
 
@@ -232,6 +241,16 @@ data":**
 ☐ A pilot candidate emerged from the room rather than from you
 ☐ Someone said a version of *this is different from the AI conversations we have been
 having* → verbatim: ______________________________________ — who: ____________
+☐ **Every individual left knowing what they personally get** — tick per person, not
+per room. Anyone you could not name a personal benefit for is someone who will not
+carry this internally:
+
+| Person | What they personally get, in their words | Named out loud in the close? |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
 ---
 

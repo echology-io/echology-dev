@@ -5,6 +5,12 @@ the brief. Treat it as a hypothesis to test in the first thirty minutes, not as
 knowledge. Where the room contradicts a card, the room is right — mark the card in
 `04-capture.md` and move.
 
+**Four lanes, not three.** The champion assembled executive, IT and governance,
+technology deployment, and practice. Several people sit in two at once — Landen is IT
+by title and deployment by temperament; the digital practice leads are deployment and
+practice simultaneously. Where a card names two lanes, that person is a bridge, and
+bridges are where pilots either get carried or quietly dropped.
+
 ---
 
 ## William O'Neal — Vice President
@@ -75,7 +81,7 @@ solved. He built it. Also: any answer implying the firm should change its proces
 fit a tool.
 
 **Watch for:** he may be quiet. Quiet from a 23-year IT director is not agreement, it
-is evaluation. If he has not spoken by T+45, ask him the question above directly.
+is evaluation. If he has not spoken by T+50, ask him the question above directly.
 
 ---
 
@@ -109,15 +115,31 @@ capability.
 
 Write the answer down verbatim. It goes directly into the pilot's pre-registration.
 
-**The one line, if and only if governance comes up:**
+**On governance — ask, do not assert.** Stated flat, *AI should not be trusted
+because AI said something* is a claim he has to accept from you. Turned into a
+question, it is something he already believes and gets to say out loud:
 
-> "AI should not be trusted because AI said something. It should be trusted because
-> every conclusion can be traced back, independently, to observed evidence."
+> *"Have you heard people say AI cannot be trusted?"*
+
+Then bring in the principle he already works under — **the phrase, never his name**.
+Saying "zero trust" lands as an idea in the room; saying "I saw on your LinkedIn that
+you do zero trust" lands as homework, and it singles him out in front of his
+director.
+
+> "Nothing is trusted because of where it came from. It is trusted because it can be
+> verified, independently, every time. Same standard here — do not trust a conclusion
+> because a model produced it. Trust it because you can trace it back to what was
+> actually observed."
+
+Then the argument that closes it for this room specifically: **every one of them
+stamps drawings.** A PE seal is a person accepting personal liability for a judgment.
+That is what trust costs in their business, and it sets the evidentiary standard for
+anything that touches the work — *nothing goes into that stamp that you cannot
+trace.*
 
 **Then stop.** Do not explain provenance further. Do not say the words "signal
 provenance" unless he asks what to call it. He will finish the thought himself, and a
-conclusion he completes is worth ten you deliver. If he asks a follow-up, answer that
-question only.
+conclusion he completes is worth ten you deliver.
 
 **Leans in on:** evidence, traceability, the ability to audit a conclusion, the honest
 "we tested this and it did not work" (see the material in `02-run-of-show.md` Part 5).
@@ -263,7 +285,7 @@ technical leadership.
 Do not let the named list crowd them out. The unnamed attendees are less likely to
 have a position to defend and more likely to say the honest thing about daily work.
 
-**Around T+35, before Part 3, ask the room generally:** *"Who here has not said
+**Around T+40, before Part 3, ask the room generally:** *"Who here has not said
 anything yet, and is currently disagreeing with something on this board?"* Asked
 lightly, it works, and it usually produces the most useful sentence of the hour.
 

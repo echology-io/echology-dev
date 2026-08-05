@@ -22,13 +22,14 @@ least resistance for everyone including you.
 Then a question, immediately, so the silence does not become an invitation to press.
 
 **If it happens a third time,** the room has decided. Give them ninety seconds of the
-honest version — the self-audit story from Part 5 — and then hard-pivot back:
-*"That is what it found in our own house. What I do not know is what it would find in
-yours, and that is what the next hour is for."*
+operational-legibility version from Part 5 — the things you do not know you do not
+know, surfaced on your own operation — then hard-pivot back: *"That is what it made
+visible in our own house. What I do not know is what it would make visible in yours,
+and that is what the next hour is for."*
 
 ---
 
-## 2. Recognition has not landed by T+40
+## 2. Recognition has not landed by T+44
 
 **Symptom:** the map is on the board, but nobody has said a version of *that is
 exactly what happens here*. Answers are polite and general. Nobody has picked up a
@@ -47,7 +48,7 @@ Named person, specific incident, recent. General questions produce general answe
 all day. One concrete story reframes the whole board, and the rest of the room will
 start supplying their own.
 
-**If it still has not landed by T+55,** abandon the abstraction entirely for the rest
+**If it still has not landed by T+58,** abandon the abstraction entirely for the rest
 of the session and run on incidents only. Every question becomes *tell me about the
 last time*. It is a less elegant session and a more useful one.
 
@@ -119,6 +120,12 @@ wanted anyway.
 **Why it matters:** it is correct, they have, and any defensive response confirms
 their read. It is also the best opportunity in the session if handled right.
 
+**This is the designated home for the null-result material.** It is deliberately not
+in the main line of Part 5 — leading with a failure spends your best evidence on a
+room that has not yet asked the question it answers, and it frames you negatively at
+the moment you should be handing them something. Held until someone challenges you,
+the same fact is the strongest thing you say all afternoon.
+
 **Recovery — agree completely, then differentiate by evidence rather than claim:**
 
 > "You should be tired of it. Most of what has been in front of you was a confident
@@ -126,13 +133,16 @@ their read. It is also the best opportunity in the session if handled right.
 >
 > So here is the only thing I will assert today: we ran a test on our own product
 > that we expected to pass, and it failed. It is written down as a null result and it
-> is still published, next to the ones that worked. I would rather show you that than
-> a capability slide.
+> is still published, next to the results that worked. I would rather show you that
+> than a capability slide.
 >
 > What would you need to see to believe a claim like this at all?"
 
 The last question is the actual move. It converts a skeptic into a specification
 author, and whatever they answer is a requirement you can meet or honestly decline.
+
+If the skeptic is Robert, this is also where his question belongs: *what evidence
+would convince you we were not fooling ourselves?* Same move, his framing.
 
 **Do not:** list differentiators, name competitors, or say *we are different*. Saying
 you are different is what everybody says.

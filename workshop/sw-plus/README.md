@@ -8,7 +8,7 @@ if you have one.
 
 | File | When you use it |
 | --- | --- |
-| `00-brief.md` | Tonight. The objective, the constraint, the three conversations in the room. |
+| `00-brief.md` | Tonight. The organizing question, the credibility to state up front, the four conversations in the room. |
 | `01-room.md` | Tonight. Who is there, what each of them is actually measuring, the first question you ask each by name. |
 | `02-run-of-show.md` | In the room. Clock-anchored, with the whiteboard choreography and the exact lines for the three hard moments. |
 | `03-question-bank.md` | In the room, when a lane goes quiet. Questions with follow-up ladders. |
@@ -16,12 +16,23 @@ if you have one.
 | `05-synthesis.md` | Within 24 hours after. Turns capture into a proposed pilot in their words. |
 | `06-failure-modes.md` | In the room, when it goes sideways. Seven ways this room goes wrong and the recovery line for each. |
 
-Three things govern all of it, and they are worth carrying in even if you read
-nothing else. **Follow energy, not the agenda** — the sheet protects the outcome, not
-the clock. **Never say the section names out loud** — the room should experience one
-continuous conversation that changes altitude four times, not a five-part agenda.
-**Score every topic 0–5 for energy as it happens** — the pilot comes from the
-highest-energy topic, not necessarily the biggest problem.
+**These are talking points, not a script.** The wordings capture the shape of a move
+and why it works; the actual questions come out of what the room just said and how
+these particular people talk. Four things are worth saying close to verbatim, and
+they are marked in place: the line at the first disagreement, the memory reframe
+before the answer, the trust argument, and the last line of the close.
+
+Four rules govern all of it, and they are worth carrying in even if you read nothing
+else.
+
+- **Positive framing, always.** Never open with what you did not bring, never say you
+  owe them an answer, never ask anyone to be patient. A negative frame is what the
+  room then listens through — and every subsequent statement is heard inside it.
+- **Follow energy, not the agenda.** The sheet protects the outcome, not the clock.
+- **Never say the section names out loud.** One continuous conversation that changes
+  altitude four times, not a five-part agenda.
+- **Score every topic 0–5 for energy as it happens.** The pilot comes from the
+  highest-energy topic, not necessarily the biggest problem.
 
 ## One structural note before anything else
 
@@ -32,9 +43,9 @@ timings as written and you lose the close — which is the only part that produc
 next meeting.
 
 `02-run-of-show.md` fits the same arc into the real 150 with a scheduled break at
-T+60 and a 13-minute close. Nothing in the arc is cut. Part 4 and Part 5 each give up
-about eight minutes, which they can afford because by then the room is doing the
-talking.
+T+62 and a 15-minute close. Nothing in the arc is cut. Part 1 gains four minutes for
+credibility and the four-lane framing; Part 4 gives up four, which it can afford
+because by then the room is doing the talking.
 
 The break is not downtime. It is the highest-yield twelve minutes of instrumentation
 in the session: who walks up to you, and what they say when leadership is not in the

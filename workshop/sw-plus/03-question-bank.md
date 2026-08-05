@@ -11,6 +11,14 @@ answer, which arrives only if you wait, is the real one.
 
 ---
 
+## The organizing question
+
+Stated in the first two minutes, and returned to whenever the session needs a spine:
+
+⟡ **"What separates an AI deployment that works from one that fails?"**
+
+Everything else in this bank is a way of answering it for SW+ specifically.
+
 ## Universal openers
 
 ⟡ **"Where does work actually begin?"**
@@ -95,6 +103,23 @@ already owns.
 → *"Is that policy, or is it enforced?"* — ask it without any edge; the gap is
 universal and naming it plainly is a relief, not an accusation.
 → *"What would you need to see to move from policy to enforcement?"*
+
+**"Have you heard people say AI cannot be trusted?"** — the governance opener. Ask
+it; never assert it. Everyone nods, and now the standard is something the room
+established rather than something you claimed.
+→ *"What would have to be true for you to trust a conclusion you did not produce
+yourself?"*
+→ then the room's own standard: **every one of them stamps drawings.** A PE seal is
+personal liability for a judgment. Nothing goes into that stamp that cannot be traced.
+
+**"Have you had anyone — your group or another — using something that was not
+sanctioned, and it just worked for them?"**
+
+Never ask this in the first person. *Who here has used an unsanctioned tool?* gets
+zero hands in every firm, every time: raising your hand means admitting non-compliance
+in front of IT and leadership and risking having the tool taken away. The third
+person costs nothing to answer and returns the same information — and once the first
+person has answered, people start describing their own within about two minutes.
 
 **"What would make an AI system trustworthy to you?"**
 → *"What evidence do you wish existed that does not?"*
@@ -210,9 +235,28 @@ you know that the firm does not."*
 
 ---
 
+## Deployment lane — Landen, the digital practice leads, whoever would carry it
+
+Distinct from IT approval. These people support the thing at 4pm on a Friday, and
+they can kill an initiative by declining to carry it.
+
+**"When something new gets rolled out here, who ends up supporting it?"**
+→ *"Is that in their job description?"*
+
+**"What was the last thing rolled out that stuck? What made it stick?"**
+→ *"And the last one that did not?"*
+
+**"How does a new tool get from one person using it to everyone using it?"**
+→ *"Who decides it is ready for that?"*
+
+**"What would you have to stop doing to support something new?"** — the honest
+capacity question, and nobody ever asks it before selling something.
+
 ## Questions to avoid
 
 - Anything answerable yes or no.
+- **Anything that asks someone to admit non-compliance in front of their director.**
+  Use the third person; see the shadow-tooling question in the IT lane.
 - *"What are your pain points?"* — vendor vocabulary; it makes them perform a list.
 - *"Would you find it useful if...?"* — hypothetical value questions always answer
   yes and mean nothing.

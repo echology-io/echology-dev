@@ -5,17 +5,29 @@ invite. Write the actual start time in the margin when you begin.
 
 | | | |
 | --- | --- | --- |
-| T+00 | **Part 1 — Why we are here** | 12 |
-| T+12 | **Part 2 — The engineering organization** (whiteboard) | 30 |
-| T+42 | **Part 3 — Current AI reality** | 18 |
-| T+60 | **Break** — instrumented, not downtime | 8 |
-| T+68 | **Part 4 — Live thought experiment** | 37 |
-| T+105 | **Part 5 — Build together, then the reveal** | 32 |
-| T+137 | **Close — what would this look like inside SW+** | 13 |
+| T+00 | **Part 1 — The frame and the credibility** | 16 |
+| T+16 | **Part 2 — The engineering organization** (whiteboard) | 30 |
+| T+46 | **Part 3 — What is actually in use today** | 16 |
+| T+62 | **Break** — instrumented, not downtime | 8 |
+| T+70 | **Part 4 — The ideal organization** | 33 |
+| T+103 | **Part 5 — Build together, then the answer** | 32 |
+| T+135 | **Close — what this looks like inside SW+** | 15 |
 
-Two checkpoints. **T+40: has recognition landed?** — has at least one person said a
-version of *that is exactly what happens here*. **T+105: do you have two circles on
+Two checkpoints. **T+44: has recognition landed?** — has at least one person said a
+version of *that is exactly what happens here*. **T+103: do you have two circles on
 the board?** If either is no, go to `06-failure-modes.md` before continuing.
+
+## This is a framework, not a script
+
+The wordings below are talking points — the shape of a move and the reason it works,
+so that you can make the call in the moment. The actual questions will be different
+because they will come out of what the room just said and how these particular people
+talk.
+
+Three things are worth saying close to verbatim, because the exact wording is doing
+work that a paraphrase loses: the line at the first disagreement (Part 2), the memory
+reframe before the answer (Part 5), and the last line of the close. Everything else
+is yours to say in your own words.
 
 ## Three things that govern everything below
 
@@ -64,50 +76,101 @@ energy scale before the session, not during it.
 
 ---
 
-## Part 1 — Why are we here (T+00, 12 min)
+## Part 1 — The frame and the credibility (T+00, 16 min)
 
-The first ninety seconds set whether this is a vendor meeting or something else.
-Nothing about Echology, nothing about AI, no credentials.
+Four moves, in this order: the question that organizes the session, who you are and
+why that matters, how to listen when a question is not yours, then around the room.
 
-**Opening, roughly:**
+### 1. The organizing question (about 2 min)
 
-> "I want to be clear about what this is, because it will save us all two hours.
+Do not open with what you did not bring. *I did not bring a demo, there is no
+software here* tells them what this is not, and a negative opener sets the frame the
+whole room then listens through. Open with the question instead.
+
+> "A lot of organizations are deploying AI right now. Most of those deployments will
+> not produce what was promised.
 >
-> I did not bring a demo. There is no software in this room today.
+> So the question worth two and a half hours is: what actually separates a deployment
+> that works from one that fails?
 >
-> What I do is study how engineering organizations actually work — where work really
-> begins, where knowledge disappears, what makes a senior engineer different from a
-> capable one with six years less. I have opinions about that. I would rather have
-> yours, because mine are not about SW+.
+> That is what we are here to work out — for SW+ specifically, not in general."
+
+That is the session's thesis, and everything after it is in service of answering it.
+It also tells them accurately why they are in the room, which they already half know:
+they intend to deploy, and what they do not have yet is the shape of a successful
+deployment.
+
+### 2. Credibility, stated plainly (about 4 min)
+
+This is the part the earlier draft got wrong by omitting. People decide in the first
+few minutes whether to spend attention on you, and they decide it on whether you have
+sat where they sit. Not chest-beating. A list of seats.
+
+> "Let me tell you why I am the one asking.
 >
-> So: I am going to ask a lot of questions. Some of them will have obvious answers
-> and I will ask anyway, because the obvious answer is usually where two of you find
-> out you have been doing it differently for years.
+> I have owned an engineering practice. I have been a designer. I have been a CAD
+> manager. I deployed AI inside the civil division of an ENR Top 200 firm. And I come
+> out of development and IT, which means governance is not a word I learned for this
+> meeting.
 >
-> If at the end of this you have learned something about your own organization that
-> you did not know this morning, this was worth your time regardless of whether we
-> ever work together."
+> Most of the seats in this room, I have sat in."
 
-Then the frame, out loud, because the room needs permission to be honest:
+Then reflect their situation back, using what you already know — without the family
+detail, which is not yours to raise:
 
-- No judgment, and nothing said here is a commitment.
-- Disagreement is the most useful thing that can happen. If two of you disagree about
-  how something works, that is the finding.
-- If I ask something naive, correct me. I do not know your business; you do.
+> "You have already seen AI demonstrated by people who know AI. What is harder to
+> find is someone who knows AI *and* knows what a Tuesday looks like in a civil
+> practice. That gap is most of why deployments fail."
 
-**Then go around the room.** Not titles — everybody knows the titles. Ask each
-person: *"What is one thing that, if it worked better, would change your week?"*
+**Why this earns the rest of the session:** every question you ask in Part 2 now
+reads as informed rather than exploratory. The same question — *where does work
+actually begin?* — lands completely differently from someone who has run a practice
+than from someone who has not said so.
 
-Write every answer on the board verbatim. Do not paraphrase. Do not group them yet.
-Leave them up all session; you will come back to them at T+137, and the fact that
-they are still there, in their words, is most of the close.
+### 3. Four kinds of question, framed as an advantage (about 2 min)
 
-**Do not:** describe Echology, mention the champion or the $15k, or explain why AI
-matters.
+The room is four audiences deep, and at any given moment three of them are listening
+to a question that is not theirs. Say so — but never as *be patient with me*, which
+asks them to endure something. Frame it as why the other answers are worth their
+attention.
+
+> "There are four kinds of question in this room. Executives will ask about the
+> business. IT will ask how it is governed. The people who deploy will ask how it
+> actually gets rolled out. And practitioners will ask what changes on Tuesday.
+>
+> They are the same question at different altitudes. So when I am answering the CAD
+> question, that answer is where the executive one comes from — and when I am
+> answering IT, that is what makes the practice answer possible.
+>
+> I will tell you when a section is aimed somewhere else, and I will tell you why it
+> still matters to you."
+
+Then do exactly that, live, whenever it applies: *"This next part is aimed at IT —
+but stay with it, because it decides whether anything we just talked about on the
+drafting side is allowed to happen."* Naming it as it happens keeps people in the
+room; it is the difference between a person disengaging and a person waiting.
+
+### 4. Ground rules and around the room (about 8 min)
+
+- Disagreement is the most useful thing that can happen here. If two of you describe
+  something differently, that is the finding.
+- Correct me. I know this industry; I do not know *your* firm, and you do.
+
+**Then go around.** Not titles — everyone knows the titles.
+
+> *"One thing that, if it worked better, would change your week."*
+
+Write every answer on the board **verbatim**. Do not paraphrase, do not group them.
+Leave them up all session — you return to them at T+135, and the fact that they are
+still there, in their words, is most of the close.
+
+**Do not:** quote the champion's internal budget argument back to the room, mention
+the $15k, or explain why AI matters. The first spends someone else's political
+capital in public; the third is the one thing everyone here already agrees on.
 
 ---
 
-## Part 2 — The engineering organization (T+12, 30 min)
+## Part 2 — The engineering organization (T+16, 30 min)
 
 The instrument is the board and it is drawn in three passes. This is the only build
 in the session and it is entirely made of their sentences.
@@ -215,23 +278,40 @@ leads than anything you could say.
 
 ---
 
-## Part 3 — Current AI reality (T+42, 18 min)
+## Part 3 — What is actually in use today (T+46, 16 min)
 
-**"What are people actually using today? Not what is approved — what is actually
-happening."**
+### Never ask this in the first person
 
-The framing has to make honesty costless, and it must be said with leadership sitting
-right there:
+*"Who here has used a tool that is not sanctioned?"* gets zero hands, every time, in
+every firm. Not because nobody has — because raising your hand means admitting you
+are out of compliance in front of IT and leadership, and it risks having the tool
+taken away. You will read the silence as *nothing is happening here*, which is the
+one conclusion guaranteed to be false.
 
-> "I am not asking to catch anyone. Every firm I talk to has people quietly using
-> whatever works, and the ones that pretend otherwise are the ones with the real
-> exposure. What is actually in use?"
+**Ask it in the third person instead:**
+
+> "Have you had anyone — in your group or another one — using something that was not
+> officially sanctioned, and it just worked for them?"
+
+Now answering costs nothing. It is an observation about the organization rather than
+a confession about themselves, and it produces the same information. People will
+describe their own tools this way within about two minutes, once the first person has
+gone.
+
+Then open it up:
+
+> "What is actually in use? Not what is approved — what is actually happening."
+
+The goal here is transparency, and transparency is what makes a deployment
+survivable: ambiguity about what is already running is exactly how these things fail
+later. But you get transparency by making it free to give, not by asking people to
+volunteer exposure in front of their director.
 
 Expect: Claude, ChatGPT, Copilot, Civil3D add-ins, LISP routines, Python scripts,
 Excel doing things Excel should not do, personal workflows nobody has documented.
 
-Ask Landen his question here: *"What have you already automated that nobody asked you
-to?"*
+Ask Landen his question here: *"What is the coolest thing you have built here that
+almost nobody knows exists?"*
 
 Then York: *"What have you written in LISP or C# that you wish you had not had to
 write?"*
@@ -253,7 +333,7 @@ become a vendor.
 
 ---
 
-## Break (T+60, 8 min)
+## Break (T+62, 8 min)
 
 Say: *"Eight minutes. I will be right here."* Then stay at the board and do not look
 at your phone.
@@ -267,16 +347,18 @@ Watch who talks to whom. The clustering tells you where influence actually sits.
 
 ---
 
-## Part 4 — Live thought experiment (T+68, 37 min)
+## Part 4 — The ideal organization (T+70, 33 min)
 
-Still nothing about Echology. This is the hardest discipline in the session and it
-is the whole reason the reveal works.
+Still nothing about what we build. This is the hardest discipline in the session and
+it is the whole reason Part 5 lands.
 
 **Frame:** *"Forget constraints for twenty minutes. Not budget, not software, not
 whether it exists. I want to know what changes."*
 
-Four questions. Roughly eight minutes each. Ask, then wait. The silence after each
-one is where the answers come from — do not fill it.
+Four questions, roughly seven minutes each. These are the least scripted part of the
+session — the wording will come out of what is already on the board, and if the room
+takes one of them somewhere better, go there. Ask, then wait. The silence after each
+one is where the answers come from; do not fill it.
 
 1. **If every engineer had perfect memory of every project this firm has ever done —
    what changes?**
@@ -290,9 +372,21 @@ Write every answer on the board, verbatim, and cluster them as you go. The clust
 will assemble themselves into observation, knowledge, relationships, context, and
 institutional memory without you naming any of those words. That is the point.
 
-If the room stalls, restate as loss rather than gain: *"Put it the other way — what
-does it cost you today that this is not true?"* Loss is more articulable than gain,
-every time.
+**If the room stalls** — meaning they cannot readily describe the ideal state — that
+itself is the finding, and you say so, then convert it:
+
+> "So we have not got a clear picture of what better looks like. That is normal, and
+> it means there is room. So put it the other way: what is it costing you right now
+> that this is not already true?"
+
+Then get concrete about the currency: delayed deliverables, RFPs that took three
+people a week, budgets that came in heavier than they were scoped, the same question
+answered forty times. Loss is more articulable than gain, every time — and cost has
+the additional property of being the only version of this the executive lane can act
+on.
+
+If they *can* describe the ideal state cleanly, that is better news and you move
+faster: write it down and go straight to what stands between them and it.
 
 If Christopher answers first, good. Let him. He gives the rest permission.
 
@@ -301,16 +395,15 @@ something that already exists. Mark it `[ALIGN]` with the exact quote and who sa
 it. These are the load-bearing sentences of the follow-up, and they are quoted back
 attributed, never paraphrased into your vocabulary.
 
-**The trap in Part 4:** someone will ask *"does this exist?"* Do not answer yet.
+**The trap in Part 4:** someone will ask *"does this exist?"* Do not answer yet, and
+do not park it apologetically.
 
-> "Hold that. Ask me again in twenty minutes and I will give you a straight answer —
-> including the parts that do not work yet."
-
-That is a promise. Keep it in Part 5, including the second half.
+> "Good — hold onto that. Finish this and I will show you exactly how it gets built,
+> because the answer is better once this board is finished."
 
 ---
 
-## Part 5 — Build together, then the reveal (T+105, 32 min)
+## Part 5 — Build together, then the answer (T+103, 32 min)
 
 ### Assemble (about 18 min)
 
@@ -357,41 +450,66 @@ using a category they already believe in and have no defenses against. Nobody in
 room has an objection to memory. Every one of them has an objection to AI. The reveal
 that follows is now landing on ground they prepared themselves.
 
-### The reveal (about 6 min)
+### The answer (about 6 min)
 
-Understated. Two sentences, no transition, no build-up.
+Understated, and framed as arrival rather than confession. **Do not say "I owe
+someone a straight answer"** — it puts you in deficit at the exact moment you should
+be handing them something.
 
-> "So — I owe someone a straight answer.
+> "Okay. So here we are. Let me answer the questions you have been asking.
 >
 > You already designed it. We have just been building software that can observe it."
 
-That is the whole reveal. It is deliberately not *this is the architecture we have
-been building* — that version still puts you at the center and asks them to admire a
+That is the whole thing. It is deliberately not *this is the architecture we have
+been building* — that version puts you at the center and asks them to admire a
 coincidence. This version puts them at the center and reduces you to an
 implementation detail of their own thinking, which is both more accurate and
-considerably more persuasive.
+considerably more persuasive. And it is literally true: they wrote it on the board.
 
-Then, immediately, before anyone can ask what it costs, the second half of the
-promise you made in Part 4. Lead with a failure. This is the credibility move and it
-is aimed at Robert and David specifically:
+### Then: operational legibility, not a failure story
 
-> "The first thing we did with it was point it at ourselves. Nine-month-old codebase,
-> one person, who wrote nearly all of it. It found that about a quarter of the files
-> should not have existed — duplicates, stale copies, archives still in the working
-> tree. Nobody could see it from inside, including the person who wrote it.
+The instinct to lead with a failure is wrong for this room. They are not here to
+watch someone be humble — they are here to find out what works. Tell it as the
+capability it demonstrates.
+
+The point is not that a tool found problems. The point is the category of problem it
+found, which is the one every firm in this position actually has:
+
+> "There are things you know. There are things you know you do not know — and you can
+> plan around those. And then there are the things you do not know you do not know.
+> You cannot plan around those, by definition, because nothing tells you they are
+> there.
 >
-> The system was not wrong. Our understanding of ourselves was.
+> We pointed this at our own operation first. Nearly a year of work, [N] lines of
+> code. It surfaced structural problems that nobody could see from the inside —
+> including the developers who wrote it.
 >
-> And we have run tests it failed. We had a claim that a certain measurement could
-> predict what a system would do next. It did not survive its own test. It is written
-> down as null and it is still on the site, next to the ones that worked."
+> That is the thing worth having. Not that it finds errors. That it makes visible the
+> part of your own operation that nobody is positioned to see."
 
-The middle sentence is the load-bearing one. *We found bugs* is a maintenance
-anecdote. *Our understanding of ourselves was wrong* is the same claim this entire
-session has been making about SW+ — and having made it about yourself first, in front
-of them, you have earned the right to imply it about them without ever saying it.
+**Three wording fixes that matter here:**
 
-Then stop. Say nothing else about the product.
+- *"nearly a year of work"*, not *"nine-month-old"*. Same fact, and nine months reads
+  as a hobby project rather than a body of work.
+- *"including the developers"*, not *"the one person who wrote nearly all of it"*.
+  The plural is about the invisibility, not the headcount — one developer invites the
+  thought *that is a very small operation*, which is the wrong thing to be thinking
+  right then.
+- **Give them a number they can feel.** *A quarter of the files* means nothing to a
+  civil engineer. Lines of code, or something with comparable weight, does.
+
+> ⚠ **Verify the figure before you walk in.** Do not say a number in this room you
+> cannot source on the spot — particularly not in front of Robert, who will correctly
+> discount everything after it. The published, defensible figure is 3,119 files
+> perceived, about a quarter of which should not have existed. If the line count
+> checks out, use it; if it does not, use the file count and give the comparison some
+> other way.
+
+**The null-result material — the predictive claim that failed its own test and stayed
+published — comes out of the main line entirely.** It is real and it is valuable, but
+it belongs where it is earned: as the answer to the skeptic who says they have heard
+all this before. See failure mode 5 in `06-failure-modes.md`. Leading with it spends
+your best evidence on a room that has not yet asked the question it answers.
 
 If they push for more, the honest frame:
 
@@ -399,8 +517,36 @@ If they push for more, the honest frame:
 > concludes, you can trace back to what it observed — and if you cannot trace it, you
 > should not act on it."
 
-**Governance:** only if raised. One line, then stop — see Robert's card in
-`01-room.md`.
+### Governance — reframe it as their question, not your assertion
+
+Do not open with *AI should not be trusted because AI said something*. Stated flat,
+it is a claim they have to accept from you. Turned around, it is something they
+already believe and get to say out loud.
+
+> "Have you heard people say AI cannot be trusted?"
+
+Everyone nods; everyone has. Then bring the room's own language in — **use the phrase,
+not the name**, so it lands as an idea in the room rather than as you having read
+someone's LinkedIn:
+
+> "There is a principle a lot of you already work under — zero trust. Nothing is
+> trusted because of where it came from. It is trusted because it can be verified,
+> every time, from the outside.
+>
+> Same standard here. Do not trust a conclusion because a model produced it. Trust it
+> because you can trace it back, independently, to what was actually observed."
+
+Then the sentence that closes it for this specific room, and it is the strongest
+argument available to you all afternoon:
+
+> "Every one of you stamps drawings. You put your license on a project — personally.
+> That is what trust actually costs in this business.
+>
+> Nothing should go into that stamp that you cannot trace."
+
+Nobody in an engineering firm needs that explained. A PE seal is personal liability
+for a judgment, and it sets the evidentiary standard for anything that touches the
+work. Say it, then stop — the room finishes the argument for you.
 
 **Automation:** if raised, go to their ground. Plugins, Civil3D, Python, APIs,
 existing investment. The correct posture is extension of what York and Landen already
@@ -417,20 +563,52 @@ defend. Any number you cannot source in the room.
 
 ---
 
-## Close — what would this look like inside SW+ (T+137, 13 min)
+## Close — what this looks like inside SW+ (T+135, 15 min)
 
 Return to the two gold circles and the verbatim answers from Part 1, both still on
 the board.
 
 > "Two hours ago I asked what would change your week. Those are still up there. And
-> in the middle you circled two places where the whole thing works because one person
-> is standing there.
->
-> I am not going to guess at what to build. Here is what I would want to look at to
-> answer that honestly — and here is the part I think matters more."
+> in the middle, you circled two places where the whole thing works because one
+> person is standing there."
 
-**Then propose the discipline, not the deal.** This is the differentiating move and
-it should be the last substantive thing said:
+### 1. What they already have access to (about 4 min)
+
+This is the wrap-up line, and it is the one that should land hardest. It is not a
+capability slide — it is an inventory of problems already solved, by someone who had
+the same problems.
+
+> "Everything I have built, I built because I needed it.
+>
+> As someone who owned an engineering practice. As a CAD manager. As the person
+> responsible for deploying AI inside an ENR Top 200 civil division.
+>
+> Every one of those solutions has been used and proven on real work. All of it is
+> available to you. That does not mean you would use all of it — you would use what
+> serves the goals we have been writing on this board for the last two hours."
+
+That is the difference between buying software and hiring capability, and it is why
+this belongs at the end rather than at the reveal. At the reveal it sounds like a
+product pitch. Here, after two hours of their own diagnosis, it sounds like what it
+is: the work is already done, and the question is only which parts of it apply.
+
+### 2. Make it individual (about 4 min)
+
+The goal is that every person leaves knowing what *they* get, in their own terms. Do
+not leave this to inference — go around the room one more time if the energy allows,
+or do it as a summary naming people directly:
+
+> *"York — that is your LISP problem, and it means you stop writing the same routine
+> for the fifth time. Robert — that is the traceability question you raised, and it
+> is answerable. Christopher — that is the plugin that understands the thing the last
+> one did not."*
+
+Name each of them against something they personally said. Four sentences, no more.
+People commit to what benefits them specifically, and a room that leaves proud of
+their own operation and clear on their own upside is a room that carries the
+conversation internally when you are not there.
+
+### 3. The discipline, not the deal (about 3 min)
 
 > "If we do something together, I would want to write down what would make it a
 > failure before it starts. What we are measuring, what result would mean it did not
@@ -440,16 +618,20 @@ it should be the last substantive thing said:
 > success. Everybody does. It is much harder to do that when the criteria were set
 > before anyone knew the answer."
 
-That is a sentence nobody else has said in that room this year. Robert will
-recognize what it is. David will recognize what it protects him from. The VP will
-recognize a way to spend money without buying a story.
+Robert will recognize what that is. David will recognize what it protects him from.
+The VP will recognize a way to spend money without buying a story.
 
-**Then the ask, and it is small:**
+### 4. No formal ask
 
-- who to talk to for one hour each about the two circled workflows
-- what would need to be true for a narrow pilot to be allowed to touch real project
-  data — asked to IT directly, in the room
-- one workflow someone volunteers
+**Do not run a three-part ask off a checklist.** On a first session, with this much
+still unknown, a structured ask reads as procurement and it converts a room that is
+leaning in into a room that is evaluating a proposal.
+
+What you want will come out of the conversation, because it always does when the
+session has gone well: someone volunteers a workflow, someone offers an hour, IT
+raises the data question themselves. Take those as they arrive and write them down.
+If none of it surfaces on its own, that is information about where the room actually
+is — and the map still goes out either way.
 
 **Last thing you say, before logistics:**
 

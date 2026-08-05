@@ -2,18 +2,35 @@
 
 ## What this session is
 
-An organizational discovery session. The subject is how engineering organizations
-actually work. Echology is not the subject and does not appear by name until Part 5,
-and then only as an answer to a question the room asked first.
+An organizational discovery session, organized around one question stated in the
+first two minutes: **what separates an AI deployment that works from one that fails?**
 
-Not a sales presentation. Not a software demonstration. If a slide would help, it is
-the wrong session.
+Everything else serves answering that for SW+ specifically. The subject is how their
+engineering organization actually works; what we build appears in Part 5 as the
+answer to a question the room has spent two hours asking.
+
+Not a sales presentation. Not a software demonstration. But also **not a session that
+opens by announcing what it is not** — see the framing rule below.
 
 ## Where the conversation already is
 
-SW+ considered waiting for the next fiscal cycle. An internal champion argued against
-waiting, on the reasoning that roughly $15k spent now to understand the opportunity
-lets implementation be budgeted intelligently later.
+SW+ intends to deploy AI. What they do not have is the shape of a successful
+deployment — what it costs, what it returns, what staffing looks like afterward, and
+what has to be in place for it to work at all. Those are known unknowns, and they are
+the reason for the meeting.
+
+They have already been shown AI by someone who knows AI and does not know their
+industry. That demo is the reference point everything today is measured against,
+which is an advantage: the gap it left is exactly the gap you fill.
+
+The champion — head of technology, and the reason this room exists — assembled it
+deliberately across four levels: executive, IT and governance, technology deployment,
+and practice. Your documentation has been circulating internally for about a month,
+so a portion of the room has already read you before meeting you.
+
+SW+ considered waiting for the next fiscal cycle. The champion argued against waiting,
+on the reasoning that roughly $15k spent now to understand the opportunity lets
+implementation be budgeted intelligently later.
 
 That argument won. Read what it means:
 
@@ -46,27 +63,39 @@ logo. That requires specifics most discovery sessions never collect: which workf
 whose data, where it physically lives, who owns access, what "good" looks like, and
 who judges it. `04-capture.md` forces those fields.
 
-## The three conversations in the room
+## The four conversations in the room
 
-Every part of the session has to satisfy all three simultaneously. Not sequentially —
-you do not get an executive segment and then an IT segment.
+The champion assembled four levels, and they ask four different kinds of question.
+Every part of the session has to satisfy all four simultaneously — you do not get an
+executive segment and then an IT segment.
 
 | Lane | The question they are silently asking | What satisfies it |
 | --- | --- | --- |
-| Executive | *What does this do for the business?* | Decision quality, risk, capability, retention, speed of learning. Not features. |
-| IT | *Can this be governed?* | Evidence, traceability, identity, boundaries. An honest "not yet" beats a confident yes. |
+| Executive | *What does this do for the business?* | Decision quality, risk, capability, retention, speed of learning. Cost, return, and what staffing looks like after. Not features. |
+| IT & governance | *Can this be governed?* | Evidence, traceability, identity, boundaries. An honest "not yet" beats a confident yes. |
+| Technology deployment | *How does this actually get rolled out?* | Integration with what exists, who administers it, what breaks, what it takes to support. |
 | Practice | *Does this make engineers better?* | Their daily friction, named accurately by someone who has clearly seen it before. |
 
-A single well-chosen question can hit all three. "Where does organizational knowledge
-disappear?" is a growth question to the VP, a records-and-retention question to IT,
-and a *why do I answer the same question forty times a year* question to a practice
-lead. Prefer questions with that property. `03-question-bank.md` marks them.
+The deployment lane is the one most often collapsed into IT, and it should not be.
+The people who roll something out have a completely different set of concerns from
+the people who approve it — they are the ones who will be supporting it at 4pm on a
+Friday, and they can kill an initiative quietly by declining to carry it.
+
+A single well-chosen question can hit all four. "Where does organizational knowledge
+disappear?" is a growth question to the VP, a records question to IT, a *who will
+maintain this* question to deployment, and a *why do I answer the same question forty
+times a year* question to a practice lead. Prefer questions with that property.
+`03-question-bank.md` marks them.
+
+**Say the four-lane structure out loud in Part 1**, framed as why the answers that
+are not theirs are still worth their attention. Never as *be patient with me* — see
+`02-run-of-show.md` Part 1, move 3.
 
 ## The hidden structure
 
 The five parts are not five topics. They are one progression:
 
-**Observe → Surface → Imagine → Construct → Reveal**
+**Observe → Surface → Imagine → Construct → Answer**
 
 That is the same order in which the thing being built actually works, which is why
 the reveal lands as recognition rather than as a pitch. The room will have already
@@ -97,9 +126,49 @@ you build it out of their sentences. When you write their words on the wall in t
 vocabulary and the map turns out to explain something they had not articulated, that
 is the demonstration. There is no other demo in this session.
 
+## Credibility, stated rather than implied
+
+The earlier version of this brief assumed credibility should be demonstrated through
+the quality of the questions and never asserted. That is half right. The questions do
+the deep work — but people decide in the first few minutes whether to spend attention
+on you at all, and they decide it on whether you have sat where they sit. If you do
+not tell them, the practice leads have no reason to believe the CAD question is
+coming from someone who has managed CAD.
+
+Say it plainly in Part 1, as a list of seats rather than a claim of expertise:
+
+- owned an engineering practice
+- worked as a designer
+- worked as a CAD manager
+- deployed AI inside the civil division of an ENR Top 200 firm
+- came up through development and IT, governance included
+
+That combination is the actual differentiator — not any one of them. Plenty of people
+in this market know AI. Very few know AI *and* what a Tuesday looks like in a civil
+practice, which is precisely the gap the demo they already saw left open.
+
+The five seats also map onto the four lanes, which is why the room holds together:
+you can answer each lane from having been in it.
+
 ## Tone
 
 Curious. Collaborative. Low ego. High expertise.
+
+**Positive framing, without exception.** This is the single most repeated note from
+the review, and it applies everywhere:
+
+| Do not say | Say |
+| --- | --- |
+| "I didn't bring a demo, there's no software here" | "What separates a deployment that works from one that fails?" |
+| "I owe you a straight answer" | "Okay — here we are. Let me answer the questions you've been asking." |
+| "Bear with me, this part isn't for you" | "This one is aimed at IT — stay with it, because it decides whether the drafting side gets what we just described." |
+| "Here's what went wrong when we tested ourselves" | "Here's the category of problem nobody is positioned to see — and how it becomes visible." |
+| "Who here has used an unsanctioned tool?" | "Have you had anyone using something that wasn't sanctioned, and it just worked?" |
+
+Framing sets what the room listens through. A negative opener does not read as
+humility, it reads as deficit, and every subsequent statement is heard inside it. The
+goal is that people leave proud of their own organization and clear on their own
+upside — not impressed by your candor about your own limitations.
 
 Banned, out loud, no exceptions: *AI revolution*, *game changing*, *next generation*,
 *transformative*, *unlock*, *leverage* as a verb, *journey*.
@@ -116,7 +185,7 @@ invitation.
 
 Recognition is the load-bearing step and it happens in Part 2. It is the moment
 someone says *that is exactly what happens here* about a pattern you drew from their
-own answers. If recognition does not land by T+40, the rest of the arc will not
+own answers. If recognition does not land by T+44, the rest of the arc will not
 carry, and `06-failure-modes.md` tells you what to do about it.
 
 ## What success looks like
@@ -130,8 +199,12 @@ Not applause. Applause is what a demo gets.
 - A pilot candidate emerges from the room rather than from you.
 - Someone says a version of: *this is different from the AI conversations we have
   been having.*
+- **Every individual leaves knowing what they personally get out of it.** Not the
+  firm — them. This is what the close's second move exists for, and it is the
+  difference between a room that agrees and a room that advocates.
 
-The last one is the real metric. Log it verbatim, with attribution, if it happens.
+The last two are the real metrics. Log the quote verbatim, with attribution, if it
+happens.
 
 ## What the room should be asking at the end
 
