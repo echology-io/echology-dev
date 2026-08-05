@@ -22,6 +22,18 @@ That question does three jobs. It flatters nothing. It assumes he has thought ab
 it, which he has. And the answer is almost always *a person* or *a way of working
 that never got written down*, which is the exact center of the session.
 
+**Then, before anyone else speaks — every time he answers first:**
+
+> *"Who experiences that differently?"*
+
+Executives describe the organization as designed. The room describes it as operated.
+The gap between those two descriptions is the most valuable object in the session,
+and it only appears if you refuse to let the senior answer stand as the room's
+answer. Ask it neutrally — it is not a challenge to him, it is a request for
+resolution, and he will usually be interested in what comes back.
+
+Use this after every executive answer, not just the first one.
+
 **Leans in on:** anything about scale breaking things. What becomes impossible at 2x
 headcount. Why the best office is best. Retention of knowledge when senior people
 retire — at a firm with 23-year tenures, someone is retiring.
@@ -84,6 +96,19 @@ nobody else in the room.
 **First question to him, by name:** *"What concerns you most about AI here? Not the
 headline risks — the specific thing you would have to answer for."*
 
+**Then the one that matters most, and it is worth waiting for the right moment:**
+
+> *"What evidence would convince you we weren't fooling ourselves?"*
+
+Note the *we*. It puts you inside the problem rather than across the table from it,
+and it asks him to specify the conditions under which he would believe a claim —
+which is, almost word for word, a specification for provenance, written by the person
+who would have to sign off on it. Whatever he answers is either a requirement you can
+meet or one you honestly cannot, and saying which is more persuasive to him than any
+capability.
+
+Write the answer down verbatim. It goes directly into the pilot's pre-registration.
+
 **The one line, if and only if governance comes up:**
 
 > "AI should not be trusted because AI said something. It should be trusted because
@@ -114,11 +139,25 @@ Most likely person in the room to go build something the same week. Navy backgro
 suggests process discipline and comfort with a chain of custody; Python plus security
 suggests he is already automating things nobody has asked him to automate.
 
-**First question to him, by name:** *"What have you already automated here that
-nobody asked you to?"*
+**First question to him, by name:**
 
-The answer is a free map of where the friction actually is, delivered by someone with
-no incentive to editorialize. Ask it in Part 3 and let it run.
+> *"What is the coolest thing you have built here that almost nobody knows exists?"*
+
+Every company has one. Every company. And the person who built it has usually never
+been asked about it by anyone senior, in public, with genuine interest.
+
+Ask this instead of the flatter version — *what have you already automated* — because
+the flat version gets you an inventory and this one gets you a story, told by someone
+who is suddenly the most interesting person in the room. It is also a free map of
+where the friction actually is, delivered by the one person with no incentive to
+editorialize.
+
+Follow with: *"What stops you building the next one?"*
+
+**Do not let him disappear into implementation.** The pull will be strong in both
+directions — he will want to talk APIs and you will enjoy it. Two sentences, then
+park it by name and get the thirty minutes separately. What you want from him in the
+room is the story and the friction, not the integration design.
 
 **Leans in on:** APIs, plugins, integration surfaces, whether he can drive it himself.
 
@@ -166,6 +205,21 @@ you hoping one would do?"*
 Quoting him back to himself, accurately, in front of his colleagues, does more for
 credibility than any slide. It also produces a pilot candidate in the first sixty
 seconds of the practice lane.
+
+**Then the follow-up, and this is the highest-yield question available in the
+practice lane:**
+
+> *"What did that plugin not understand?"*
+
+Or, if he is describing one he tried: *what did it get wrong that a person would not
+have?*
+
+That question locates the exact boundary where software stops and judgment begins —
+in his words, about a specific tool, on a specific drawing. It is the difference
+between automating a task and supporting a decision, and everything worth building
+for this firm lives on that line. Whatever he answers, write it down verbatim; it
+belongs in the pilot proposal as the definition of what the pilot must *not* try to
+do on its own.
 
 **Leans in on:** anything he can try. Concrete over conceptual, every time.
 

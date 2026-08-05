@@ -17,6 +17,25 @@ answer, which arrives only if you wait, is the real one.
 → *"That is where it becomes billable. Where does it actually begin?"*
 → *"Who knows about it before the project number exists?"*
 
+⟡⟡ **"Where does work begin before the system knows it has begun?"**
+→ *"Who is doing that work? Is it always the same people?"*
+→ *"Does anything about it survive into the project record?"*
+
+The single best question available. Everything before the first system-of-record
+timestamp is invisible to every tool the firm owns: the favor, the phone call, the
+hallway conversation, *can you take a quick look at this*, the client who will not
+start without one particular person, the two weeks of thinking before a file was
+opened. That region is the invisible organization, and it is usually where the delay
+chain originates and where the senior-person dependency is worst.
+
+**The standing follow-up to any senior person's answer:**
+
+⟡ **"Who experiences that differently?"**
+
+Executives describe the organization as designed; the room describes it as operated.
+The gap is the finding. Use it every time, not just once — and ask it neutrally, as a
+request for resolution rather than a challenge.
+
 ⟡ **"Where does organizational knowledge disappear?"**
 → *"Does it disappear, or does it just become unfindable?"* (very different problems)
 → *"When it disappears, who notices, and how long after?"*
@@ -79,9 +98,13 @@ universal and naming it plainly is a relief, not an accusation.
 
 **"What would make an AI system trustworthy to you?"**
 → *"What evidence do you wish existed that does not?"*
+→ **"What evidence would convince you we weren't fooling ourselves?"**
 
-That second one is the question. Note the exact answer verbatim — it is very close to
-a specification, written by the person who would have to approve the pilot.
+The last one is the question. Note the *we* — it puts you inside the problem rather
+than across the table from it, and it asks Robert to specify the conditions under
+which he would believe a claim at all. That is a specification for provenance,
+written by the person who would have to approve the pilot. Record it verbatim; it
+goes straight into the pre-registration.
 
 **"When something goes wrong with a system here, how do you find out why?"**
 → *"Is that the same for every system, or does it depend who built it?"*
@@ -102,9 +125,15 @@ if he asks, and only then.
 addressed to David. Expect institutional scar tissue. Take it seriously; it is a list
 of the ways a pilot could die.
 
-**For Landen:** *"What have you already automated that nobody asked you to?"*
+**For Landen:** *"What is the coolest thing you have built here that almost nobody
+knows exists?"*
 → *"What would you build next if you had the time?"*
 → *"What stops you?"*
+
+Every company has one, and the person who built it has usually never been asked about
+it by anyone senior, in public, with real interest. The flat version — *what have you
+automated* — returns an inventory. This one returns a story, and the story contains
+the friction.
 
 ---
 
@@ -138,6 +167,18 @@ is an observation problem. Different architectures.
 **"What do you look at first when you open someone else's drawing?"**
 → a direct read on tacit quality heuristics, and one of the few questions that gets a
 specific, surprising, technical answer.
+
+**"What did that plugin not understand?"** — after Christopher, or anyone, describes
+a tool they tried.
+→ *"What did it get wrong that a person would not have?"*
+→ *"Could it have known? Or was that never knowable from what it could see?"*
+
+This question locates the exact boundary where software stops and judgment begins, in
+their words, about a specific tool on a specific drawing. Everything worth building
+for this firm lives on that line, and the answer belongs in the pilot proposal as the
+definition of what the pilot must **not** attempt on its own. The second follow-up
+splits it further: *could not have known* is a data problem, *never knowable* is a
+judgment call that should stay with a person permanently.
 
 **For Jacob:** *"Where does Charlotte do it differently? Not better or worse —
 differently."*

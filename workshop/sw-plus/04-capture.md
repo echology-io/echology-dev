@@ -37,6 +37,31 @@ Repetition is the primary instrument. Three people describing the same friction 
 three different vocabularies is a stronger finding than one person describing it
 emphatically.
 
+## Pressure gauge — score every topic as it happens
+
+**5** interrupting each other · **3** several volunteering, some disagreement ·
+**1** one person answering · **0** polite agreement, nobody adds anything
+
+Write the number in the margin next to the topic, live. You will not reconstruct
+energy from memory an hour later, and this is the field that decides which pilot to
+propose. A 5 means the room already agrees it matters and will defend it without you
+in the building; a large problem scoring 1 is one the firm has already decided to
+live with.
+
+| Topic | Energy | Who drove it | Who stayed out of it |
+| --- | --- | --- | --- |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
+**Highest-energy topic of the session:**
+
+**Does it match a gold circle?** ☐ yes ☐ no — if no, that tension is the most
+important thing to resolve in synthesis.
+
 ---
 
 ## Part 1 — "one thing that would change your week" (T+00)
@@ -67,7 +92,26 @@ Verbatim, one per person. These get read back at T+137.
 
 **Where work actually begins, per them:**
 
-**Disagreements surfaced while drawing** (two people, two versions of the same step):
+**The invisible organization** — everything to the left of the first box. Where work
+begins before the system knows it has begun. Favors, phone calls, hallway asks, the
+client who will not start without one person, the thinking that happened before a
+file was opened:
+
+```
+
+```
+
+*Who does this work, is it always the same people, and does any of it survive into
+the project record:*
+
+**Disagreements surfaced while drawing** (two people, two versions of the same step).
+Say the line — *"Excellent. We just found two different models of the same
+organization."* — then log both versions here and leave both on the board:
+
+| The step | Version A (who) | Version B (who) | Energy |
+| --- | --- | --- | --- |
+|  |  |  |  |
+|  |  |  |  |
 
 **Red marks — knowledge disappears (X):**
 
@@ -92,11 +136,18 @@ Verbatim, one per person. These get read back at T+137.
 |  |  |  |  |  |
 |  |  |  |  |  |
 
-**Already automated, unasked (Landen):**
+**The coolest thing built here that almost nobody knows exists (Landen)** — the
+story, not the inventory. And: what stops him building the next one:
 
 **LISP / C# they wish they had not had to write (York):**
 
 **What they tried that did not work:**
+
+**"What did that plugin not understand?" (Christopher, or anyone describing a tool)**
+— verbatim. This is the boundary between software and judgment, and it defines what
+the pilot must not attempt on its own:
+
+*Could it have known, or was it never knowable from what the tool could see?*
 
 **Stated policy vs. actual practice — the gap, without editorializing:**
 
@@ -146,6 +197,12 @@ The highest-signal eight minutes. Write it down the moment they walk away.
 **Reaction to the reveal — first person to speak, and what they said:**
 
 **Reaction to the self-audit failure story:**
+
+**Reaction to "everything on this board is about memory" — who nodded, who wrote
+something down:**
+
+**Robert: "what evidence would convince you we weren't fooling ourselves?"** —
+verbatim. Goes directly into the pilot pre-registration:
 
 **Governance raised? By whom, at what point, in what words:**
 

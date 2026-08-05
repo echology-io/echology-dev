@@ -62,9 +62,35 @@ disappear?" is a growth question to the VP, a records-and-retention question to 
 and a *why do I answer the same question forty times a year* question to a practice
 lead. Prefer questions with that property. `03-question-bank.md` marks them.
 
+## The hidden structure
+
+The five parts are not five topics. They are one progression:
+
+**Observe → Surface → Imagine → Construct → Reveal**
+
+That is the same order in which the thing being built actually works, which is why
+the reveal lands as recognition rather than as a pitch. The room will have already
+performed the architecture before it is named.
+
+**Never say the section names out loud.** Do not announce "now we move to Part 3."
+Do not say "current AI reality" or "thought experiment." A named agenda turns
+participants into an audience waiting for the next item. Move from one to the next by
+asking the first question of the next part as though it were the natural follow-up to
+the last answer of the previous one — because it is.
+
+The run sheet is for you. The room should experience one continuous conversation that
+happens to change altitude four times.
+
 ## Core principle
 
 Show. Never tell. Build, observe, ask, adapt.
+
+**And the principle that governs the run sheet itself: follow energy, not the
+agenda.** If the room discovers something important, stay with it. The run sheet
+exists to protect the outcome, not the clock. Fifteen minutes spent on a live
+breakthrough is worth more than three parts delivered on time, and the timings in
+`02-run-of-show.md` are built with enough slack to absorb one such detour. Spend it
+deliberately, once.
 
 Applied to a room with no software in it: the thing you build is the whiteboard, and
 you build it out of their sentences. When you write their words on the wall in their
@@ -115,3 +141,25 @@ Not "can we buy this?"
 
 The close in `02-run-of-show.md` is built to make that the natural next sentence, and
 to have an answer ready that is neither a price nor a promise.
+
+---
+
+## What this session actually is
+
+Worth holding in mind while facilitating, and worth never saying out loud.
+
+This is not a discovery session with a whiteboard exercise in it. It is an experiment
+in organizational self-observation, and the whiteboard is its output.
+
+By the close, the room will have collectively witnessed and externalized knowledge
+that existed only inside individual heads — where work really begins, which two
+people the firm silently depends on, where the record of *why* stops existing. Nobody
+had written that down before, and no software produced it. The room did, in one
+afternoon, because it was asked the right questions in the right order.
+
+That board is the first artifact. It demonstrates the underlying philosophy before
+anyone sees a line of code, and it is a far stronger introduction than any demo,
+because they cannot dismiss it as a vendor's claim — they made it.
+
+Which is also why the map goes back to them within 48 hours, in their words, with the
+disagreements left in. It is the proof that the session was what you said it was.

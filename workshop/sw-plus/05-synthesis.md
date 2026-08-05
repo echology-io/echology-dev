@@ -99,6 +99,13 @@ Look specifically for:
 - **Office asymmetry** — Charlotte vs. the rest. Which is the exception?
 - **Records of *why*** — if decisions are traceable to *what* but never *why*, that
   is the whole opportunity in one sentence and it should be quoted from them.
+- **The invisible organization** — everything happening before the system of record
+  starts. If the region left of the first box turned out to be large, that is the
+  finding of the session: the firm's tools begin measuring after the most consequential
+  decisions have already been made, by the people it can least afford to lose.
+- **Energy vs. magnitude** — where the room got loud versus where the arithmetic says
+  the problem is. If those are different places, say so explicitly and pick energy for
+  the first pilot. Magnitude wins arguments; energy survives budget season.
 
 ---
 
@@ -125,9 +132,21 @@ One block per candidate. Two or three, not more. Score honestly — a candidate 
 fails a feasibility field is a candidate that dies in month two, and it is much
 cheaper to notice that now.
 
+**Selection rule:** rank by energy first, feasibility second, magnitude third.
+
+The highest-energy topic is the one the room will still be talking about in three
+weeks, and it is the one that gets defended internally when you are not in the
+building. A larger problem that scored 1 or 2 on the gauge is a problem the
+organization has already made peace with; a pilot aimed at it has to generate its own
+sponsorship, which no pilot has ever done. If the highest-energy topic is not
+feasible for a first pilot, say so plainly in the proposal and name it as the second
+one — do not silently substitute the safe candidate and hope nobody notices which
+conversation it came from.
+
 ### Candidate A — *[name it in their words]*
 
 **Whose pain:** _____ **Which gold circle:** _____ **Lanes it serves:** _____
+**Energy score in the room:** _____ **Who drove that conversation:** _____
 
 **What actually happens today**, in their words, specifically enough that someone
 who was not in the room could picture it:
@@ -155,6 +174,9 @@ This is the differentiator and it is not optional. The discipline is the product
 
 - **Claim being tested:**
 - **Measured how:**
+- **The evidence Robert said would convince him we were not fooling ourselves** —
+  verbatim, and whether this design provides it. If it does not, say so here rather
+  than discovering it in week six:
 - **Threshold for success, set before the data exists:**
 - **What result would mean this failed** — stated plainly, in a way that could
   actually happen:
@@ -197,6 +219,9 @@ Constraints for this section:
 
 **What it does not do** — include this section. It is the most persuasive part of the
 document for the two people in IT, and it is the section every other vendor omits.
+Build it from the answer to *"what did that plugin not understand?"*: the boundary
+they drew between software and judgment is the boundary the pilot commits to in
+writing, in their words, on their example.
 
 ---
 

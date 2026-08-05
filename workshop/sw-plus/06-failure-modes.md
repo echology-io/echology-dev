@@ -167,6 +167,37 @@ spends their capital for them, in public, without asking.
 
 ---
 
+---
+
+## 7. You are twenty minutes behind because something real happened
+
+**Symptom:** the room got into something at a 5 on the gauge — an argument about how
+a handoff actually works, a story that pulled four people in — and it ran long. You
+are now behind and the reflex is to compress your way back onto the clock.
+
+**Why the reflex is wrong:** you came for exactly this. A high-energy divergence is
+the session working, and cutting it to protect a schedule tells the room that the
+agenda mattered more than what they were saying. They will not offer you the next
+one.
+
+**Recovery — pay for it deliberately, from the right place:**
+
+| Take it from | How much | Cost |
+| --- | --- | --- |
+| Part 4, one question | up to 12 min | Low. Four questions is generous; three works. |
+| Part 5 assemble | up to 6 min | Low if the board is already rich. |
+| Part 3 | up to 8 min | Medium — you lose shadow-tooling detail. |
+| The break | 0 | Do not. It is instrumentation, and people will take it anyway. |
+| The close | 0 | Never. It is the only part that produces the next meeting. |
+
+Say nothing about being behind. Announcing it makes the room feel responsible for the
+best twenty minutes of the afternoon.
+
+**The rule:** follow energy, not the agenda. The sheet protects the outcome, not the
+clock. Spend one deliberate detour — and if a second one appears, name it out loud as
+a follow-up conversation rather than taking it, because two detours is no longer a
+session with a shape.
+
 ## Two things to remember when it is going badly
 
 **Silence is not failure.** Five seconds after a question feels like thirty from the

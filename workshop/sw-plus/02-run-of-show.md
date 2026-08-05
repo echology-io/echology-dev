@@ -17,9 +17,50 @@ Two checkpoints. **T+40: has recognition landed?** — has at least one person s
 version of *that is exactly what happens here*. **T+105: do you have two circles on
 the board?** If either is no, go to `06-failure-modes.md` before continuing.
 
-Bring: three marker colors (black, red, gold or green), a phone for photographing the
-board, and one printed copy of `04-capture.md`. If someone else is taking notes, hand
-them the printed copy and the tag list before the session, not during it.
+## Three things that govern everything below
+
+**Follow energy, not the agenda.** If the room discovers something real, stay with
+it. This sheet exists to protect the outcome, not the clock. The break and the close
+are the two things that must not be sacrificed; everything else can give. Spend one
+deliberate detour, not four accidental ones.
+
+**Never say the section names.** No "now let's move to Part 3," no "current AI
+reality," no "thought experiment." A named agenda turns participants into an audience
+waiting for the next item. Move between parts by asking the first question of the
+next one as though it followed naturally from the last answer of the previous one.
+The room should experience one continuous conversation that changes altitude four
+times.
+
+**Run a pressure gauge.** Score every topic 0–5 in the margin of your capture sheet
+as it happens.
+
+> **5** — people interrupting each other, talking over the facilitator
+> **3** — several people volunteering, some disagreement
+> **1** — one person answering, others waiting
+> **0** — polite agreement, nodding, nobody adds anything
+
+The pilot should emerge from the highest-energy topic, not necessarily from the
+biggest operational problem. A 5 means the room already has consensus that it
+matters and will defend it internally without you in the building. A large problem
+that scores 1 is a problem the organization has already decided to live with, and a
+pilot aimed at it will die quietly at budget time regardless of the arithmetic.
+
+Score it live. You will not reconstruct energy from memory an hour later.
+
+## Bring
+
+**Three Sharpies: black, red, gold.** Not dry-erase, if the surface allows it —
+butcher paper or a large pad on an easel rather than a whiteboard. The three colors
+become part of the story, the marks are permanent, and the sheet rolls up and leaves
+with you instead of being wiped by whoever books the room next.
+
+People remember physical rituals. Handing someone a red Sharpie and asking them to
+mark where knowledge disappears in their own firm is an act they will describe to
+someone else later. Handing them a dry-erase marker is not.
+
+Also: a phone for photographing the board, and one printed copy of `04-capture.md`.
+If someone else is taking notes, hand them the printed copy, the tag list, and the
+energy scale before the session, not during it.
 
 ---
 
@@ -81,6 +122,22 @@ begin?"* The real answer is earlier — a call, a relationship, a pursuit, a
 conversation about a parcel two years ago. Where they place the true origin tells you
 what they think they are in the business of.
 
+**Then the question that opens the real organization:**
+
+> *"Where does work begin before the system knows it has begun?"*
+
+This is the highest-yield question in Part 2 and possibly in the session. Every
+system of record starts at a moment, and everything before that moment is invisible
+to every tool the firm owns — and it is where the favors live. The phone call. The
+hallway conversation. *Can you take a quick look at this?* The client who trusts one
+particular person and will not start without them. The two weeks of thinking that
+happened before anyone opened a file.
+
+Draw that region to the **left of the first box**, separated by a vertical line, and
+label it in their words. Most firms have never seen it drawn. It is usually where the
+delay chain actually originates and where the senior-engineer dependency is most
+acute, and it will pull marks in both later passes.
+
 Build left to right from there, in their words, using their internal names for the
 phases. If they call it something specific, write that. Their vocabulary is the
 interface for anything you build later; the moment you translate it into your own
@@ -90,6 +147,28 @@ Keep it to eight or ten boxes. This is a map, not a process document.
 
 Then, still in black, place people on it: who touches each phase, and where handoffs
 occur. Handoffs are where the rest of the session lives.
+
+### At the first disagreement — say this exactly
+
+Two people will describe the same step differently. It will happen in the first ten
+minutes of drawing. When it does, the line is:
+
+> **"Excellent. We just found two different models of the same organization."**
+
+Say it warmly and keep drawing. Draw both versions on the board, side by side, and
+leave them both there.
+
+Not *"you're both right"* — that dissolves the finding into politeness and teaches
+the room that divergence is something to be smoothed over.
+Not *"interesting"* — that is a facilitator noise and everyone knows it.
+
+The exact wording does three things at once: it treats the disagreement as a
+discovery rather than a problem, it names the actual finding accurately (two mental
+models, both operating, in one firm), and it licenses every subsequent disagreement
+in the room. After that line, people will volunteer divergences unprompted, which is
+the single most productive state this session can reach.
+
+Mark the energy score on that topic. It is usually a 4 or a 5.
 
 ### Pass two, red — where it breaks (about 10 min)
 
@@ -253,25 +332,64 @@ some order and in their own words:
 If they miss the last one, ask directly: *"Who decides?"* The answer will be *a
 person, always* — and it is much stronger arriving from them.
 
+### The ninety seconds before the reveal
+
+Do not skip this and do not rush it. It is the highest-leverage minute and a half in
+the session.
+
+Stop talking. Walk to the board. Stand beside it and look at the whole thing — the
+lifecycle, the region to the left of it, the red marks, the two gold circles, the
+Part 1 answers still up from two hours ago. Let the room watch you read it. The
+silence is doing work; five to ten seconds of it is not too long.
+
+Then, still facing the board:
+
+> "Notice something.
+>
+> Everything on this board is about memory.
+>
+> Not artificial intelligence. Organizational memory."
+
+Then turn around.
+
+That sentence reframes two hours of their own work in nine words, and it does it
+using a category they already believe in and have no defenses against. Nobody in that
+room has an objection to memory. Every one of them has an objection to AI. The reveal
+that follows is now landing on ground they prepared themselves.
+
 ### The reveal (about 6 min)
 
-Understated. One sentence, no transition, no build-up.
+Understated. Two sentences, no transition, no build-up.
 
-> "So — I owe someone a straight answer. What you have drawn is essentially the
-> architecture we have been building for the last year."
+> "So — I owe someone a straight answer.
+>
+> You already designed it. We have just been building software that can observe it."
+
+That is the whole reveal. It is deliberately not *this is the architecture we have
+been building* — that version still puts you at the center and asks them to admire a
+coincidence. This version puts them at the center and reduces you to an
+implementation detail of their own thinking, which is both more accurate and
+considerably more persuasive.
 
 Then, immediately, before anyone can ask what it costs, the second half of the
-promise. Lead with a failure. This is the credibility move and it is aimed at Robert
-and David specifically:
+promise you made in Part 4. Lead with a failure. This is the credibility move and it
+is aimed at Robert and David specifically:
 
 > "The first thing we did with it was point it at ourselves. Nine-month-old codebase,
 > one person, who wrote nearly all of it. It found that about a quarter of the files
 > should not have existed — duplicates, stale copies, archives still in the working
 > tree. Nobody could see it from inside, including the person who wrote it.
 >
+> The system was not wrong. Our understanding of ourselves was.
+>
 > And we have run tests it failed. We had a claim that a certain measurement could
 > predict what a system would do next. It did not survive its own test. It is written
 > down as null and it is still on the site, next to the ones that worked."
+
+The middle sentence is the load-bearing one. *We found bugs* is a maintenance
+anecdote. *Our understanding of ourselves was wrong* is the same claim this entire
+session has been making about SW+ — and having made it about yourself first, in front
+of them, you have earned the right to imply it about them without ever saying it.
 
 Then stop. Say nothing else about the product.
 
@@ -335,12 +453,25 @@ recognize a way to spend money without buying a story.
 
 **Last thing you say, before logistics:**
 
-> "I will send you the map you drew today, in your words, not mine. If I got anything
-> wrong, tell me — because if the map is wrong the rest of it will be too."
+> "I will send you the map you drew today, in your words, not mine.
+>
+> If you look at it next week and still think it describes how your firm actually
+> works, then today was worthwhile.
+>
+> If it does not — tell me. Because I would rather have an accurate map than a
+> flattering one."
 
-Then stop talking and let the room fill the space. If the arc worked, someone asks
-what this would look like inside SW+, and you have already answered it without
-quoting a price.
+Then stop talking and let the room fill the space.
+
+That ending does something a thank-you cannot. It sets the criterion for the
+session's success *after* the session, in their hands, on a standard they judge — and
+it makes correcting you the natural next interaction rather than declining you. It is
+also the same discipline as the pre-registration you just proposed, applied to your
+own work in front of them, thirty seconds later. Nobody will say that out loud.
+Robert will notice.
+
+If the arc worked, someone asks what this would look like inside SW+, and you have
+already answered it without quoting a price.
 
 ---
 
@@ -352,6 +483,7 @@ Before leaving the parking lot, five minutes, in `04-capture.md`:
 - who surprised you
 - who did not speak, and whether that was evaluation or absence
 - the two circles, exactly as worded on the board
+- the highest-energy topic of the session, and whether it matches the circles
 - anyone who said a version of *this is different from the AI conversations we have
   been having* — verbatim, with attribution
 

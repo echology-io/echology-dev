@@ -14,7 +14,14 @@ if you have one.
 | `03-question-bank.md` | In the room, when a lane goes quiet. Questions with follow-up ladders. |
 | `04-capture.md` | In the room. Blank, tagged, ready to fill. Copy to `04-capture-FILLED.md` before the session. |
 | `05-synthesis.md` | Within 24 hours after. Turns capture into a proposed pilot in their words. |
-| `06-failure-modes.md` | In the room, when it goes sideways. Six ways this room goes wrong and the recovery line for each. |
+| `06-failure-modes.md` | In the room, when it goes sideways. Seven ways this room goes wrong and the recovery line for each. |
+
+Three things govern all of it, and they are worth carrying in even if you read
+nothing else. **Follow energy, not the agenda** — the sheet protects the outcome, not
+the clock. **Never say the section names out loud** — the room should experience one
+continuous conversation that changes altitude four times, not a five-part agenda.
+**Score every topic 0–5 for energy as it happens** — the pilot comes from the
+highest-energy topic, not necessarily the biggest problem.
 
 ## One structural note before anything else
 
